@@ -17,14 +17,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.1.1
-  path: ^1.8.0
-  pointer_interceptor: ^0.10.0
-  uuid: ^4.2.2
-  webview_flutter: ^4.4.2
-  webview_flutter_android: ^3.13.1
-  webview_flutter_platform_interface: ^2.9.0
-  webview_flutter_wkwebview: ^3.10.0
+  http: ^1.2.2
+  path: ^1.9.0
+  pointer_interceptor: ^0.10.1+2
+  uuid: ^4.5.1
+  webview_flutter: ^4.10.0
+  webview_flutter_android: ^4.3.0
+  webview_flutter_platform_interface: ^2.10.0
+  webview_flutter_wkwebview: ^3.17.0
 
 dev_dependencies:
   flutter_test:
